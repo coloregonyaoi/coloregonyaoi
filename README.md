@@ -1,5 +1,5 @@
 <p align="center">
-![](https://files.catbox.moe/sl2p7u.png)
+<img src="https://files.catbox.moe/sl2p7u.png">
 </p>
 
 hi i am laika lucielle
